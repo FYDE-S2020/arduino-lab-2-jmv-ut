@@ -49,4 +49,4 @@ Team Number: 4
 
 9. Screenshot of your Blynk App:
 
-    ![Blynk app SS](img/BLYNKSS.png)
+    ![Blynk app SS](img/BLYNKSS.PNG)
